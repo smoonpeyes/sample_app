@@ -23,11 +23,14 @@ group :test do
   gem 'capybara', '1.1.2'
 end
 
+<<<<<<< HEAD
 group :development, :test do
   gem 'sqlite3', '1.3.5'
   gem 'rspec-rails', '2.11.0'
 end
 
+=======
+>>>>>>> modeling-users
 group :development do
   gem 'annotate', '2.5.0'
 end
